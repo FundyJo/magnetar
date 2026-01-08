@@ -17,8 +17,7 @@ export default function Header({ setPage }: HeaderProps) {
         <img 
           src="/klinikum-logo.png" 
           alt="Klinikum Dortmund Logo" 
-          className="h-8"
-          style={{ width: 'auto' }}
+          className="h-8 w-auto"
         />
         <p className="text-lg">Administrator Tool</p>
       </button>
